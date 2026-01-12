@@ -11,8 +11,6 @@ The dashboard provides insights into **price trends, yearly growth, company-wise
 - Power BI
 - Microsoft Excel
 - Python (for data cleaning & ETL)
-- SQL (for analysis queries)
-
 ---
 
 ## 📂 Dataset Details
